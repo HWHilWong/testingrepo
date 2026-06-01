@@ -1,1 +1,1 @@
-# Data Science Projecrt
+# Data Science Project
